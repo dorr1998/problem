@@ -1,0 +1,92 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+a:hover {
+  color: #b1191a;
+}
+
+.clearfix::before,
+.clearfix::after {
+  content: '';
+  display: table;
+}
+
+.clearfix::after {
+  clear: both;
+}
+
+input {
+  border: 1px solid #ccc;
+  /* 去掉选中之后的颜色边框 */
+  outline: none;
+}
+
+textarea {
+  /* 去掉文本域的自动缩放效果 */
+  resize: none;
+  outline: none;
+}
+
+.fl {
+  float: left;
+}
+
+.fr {
+  float: right;
+}
+
+/* 公共版心 */
+.container {
+  width: 1170px;
+  margin: 0 auto;
+  position: relative;
+}
+
+/* 文字的整体设置 */
+body {
+  font: 12px/1.5 'microsoft yahei';
+}
+
+/* 公共头部 */
+.header {
+  height: 72px;
+}
+
+.bg {
+  height: 970px;
+  background: url(../images/bg-2.jpg) no-repeat center;
+}
+
+.logo {
+  width: 185px;
+  height: 72px;
+  background: url(../images/logo.png) no-repeat center;
+}
+
+.navbar-nav li {
+  float: left;
+  margin-right: 8px;
+}
+
+.header .navbar-nav a {
+  height: 72px;
+  line-height: 42px;
+  font-size: 12px;
+  display: block;
+  position: relative;
+  color: #fff;
+  padding: 15px;
+}

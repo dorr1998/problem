@@ -1,0 +1,154 @@
+.partnerBg {
+  height: 920px;
+  width: 100%;
+  background: url(../images/bg-3-1.jpg) no-repeat;
+  background-size: 100% auto;
+}
+
+.hugescreen .info {
+  width: 382px;
+  height: 154px;  
+  margin: 60px auto;
+  background: url(../images/banner3-2.png) no-repeat;
+  background-size: 100% auto;
+}
+.hugescreen .pic {
+  width: 650px;
+  height: 351px;
+  margin: 60px auto;
+  background: url(../images/banner3-4.png) no-repeat;
+  background-size: 100% auto;
+}
+
+.plan {
+  padding: 50px;
+  background-color: #fff;
+}
+
+.plan h3 {
+  font-size: 42px;
+  font-weight: 700;
+  color: #2a2a2a;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.plan h4 {
+  font-size: 18px;
+  color: #666;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.plan ul {
+padding: 0 200px;
+  margin-top: 50px;
+}
+
+.plan li {
+  width: 33%;
+  float: left;
+  height: 262px;
+  text-align: center;
+}
+
+.plan li h5 {
+  font-size: 24px;
+  color: #333;
+  margin: 14px auto;
+}
+
+.plan li p {
+  font-size: 14px;
+  color: #666;
+}
+
+.condition {
+  height: 800px;
+  width: 100%;
+  background: url(../images/bg3-3.png) no-repeat;
+  background-size: 100% auto;
+  position: relative;
+}
+.condition .text {
+  width: 45%;
+  position: absolute;
+  top: 300px;
+  left: 150px;
+}
+.condition .text h3 {
+  font-size: 42px;
+  font-weight: 700;
+  color: #2a2a2a;
+  margin-bottom: 20px;
+}
+.condition .text p {
+  font-size: 24px;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.condition .pic {
+  width: 40%;
+  height: 560px;
+  position: absolute;
+  bottom: 10px;
+  right: 0;
+  background: url(../images/jpg1.jpg) no-repeat;
+  background-size: 100% auto;
+}
+.footer {
+  height: 580px;
+  width: 100%;
+  background: url(../images/bg3-4.jpg) no-repeat;
+  background-size: 100% auto;
+  position: relative;
+}
+
+.footer .joinUs {
+  position: absolute;
+  width: 100%;
+  bottom: 180px;
+  text-align: center;
+}
+.footer .joinUs h4 {
+  font-size: 42px;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 30px;
+}
+.footer .joinUs .process {
+  width: 60%;
+  height: 50px;
+  margin: 0 auto; 
+  background: url(../images/fc.png) no-repeat;
+  background-size: 100% auto;
+  position: relative;
+}
+.footer .joinUs .process span {
+  font-size: 24px;
+  color: #fff;
+}
+.footer .joinUs .process span.tip1 {
+  position: absolute;
+  top: 40px;
+  left: -25px;
+}
+.footer .joinUs .process span.tip2 {
+  position: absolute;
+  top: 40px;
+  left: 160px;
+}
+.footer .joinUs .process span.tip3 {
+  position: absolute;
+  top: 40px;
+  left: 360px;
+}
+.footer .joinUs .process span.tip4 {
+  position: absolute;
+  top: 40px;
+  left: 550px;
+}
+.footer .joinUs .process span.tip5 {
+  position: absolute;
+  top: 40px;
+  right: -25px;
+}

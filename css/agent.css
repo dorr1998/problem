@@ -1,0 +1,324 @@
+.agentBg {
+  height: 980px;
+  width: 100%;
+  background: url(../images/bg3-2.png) no-repeat;
+  background-size: 100% auto;
+}
+
+.hugescreen .info {
+  width: 580px;
+  height: 180px;
+  margin: 60px auto;
+  background-image: url(../images/banner-texts.png);
+}
+
+.question {
+  padding-left: 200px;
+}
+
+.question h3 {
+  font-size: 42px;
+  color: #2a2a2a;
+  margin-bottom: 27px;
+}
+
+.question p {
+  font-size: 24px;
+  color: #333;
+  font-weight: bold;
+}
+
+.bright {
+  height: 1000px;
+  width: 100%;
+  background: url(../images/bg3-3.png) no-repeat;
+  background-size: 100% auto;
+  overflow: hidden;
+}
+
+.bright h3 {
+  text-align: right;
+  font-size: 42px;
+  color: #2a2a2a;
+  margin-top: 200px;
+  margin-right: 240px;
+}
+
+.bright .info {
+  width: 40%;
+  height: 560px;
+  margin: 0 auto;
+  margin-top: 60px;
+  background: url(../images/bg3-4.png) no-repeat;
+  background-size: 100% auto;
+  position: relative;
+}
+.bright .info span {
+  font-size: 24px;
+  color: #333;
+  font-weight: bold;
+  vertical-align: middle;
+}
+.bright .info img {
+  font-size: 24px;
+  color: #333;
+  font-weight: bold;
+  vertical-align: middle;
+}
+.bright .info .one {
+  position: absolute;
+  top: 70px;
+  left: -150px;
+  
+}
+
+.bright .info .two {
+  position: absolute;
+  top: 150px;
+  left: -210px;
+}
+
+.bright .info .three {
+  position: absolute;
+  top: 350px;
+  left: -200px;
+}
+
+.bright .info .four {
+  position: absolute;
+  bottom: 10px;
+  left: -80px;
+}
+
+.bright .info .five {
+  position: absolute;
+  bottom: 20px;
+  right: -15px;
+}
+
+.bright .info .six {
+  position: absolute;
+  bottom: 100px;
+  right: -150px;
+}
+
+.bright .info .seven {
+  position: absolute;
+  top: 240px;
+  right: -165px;
+}
+
+.bright .info .eight {
+  position: absolute;
+  top: 50px;
+  right: -240px;
+}
+
+.market {
+  height: 640px;
+  width: 100%;
+  background: url(../images/bg3-5.png) no-repeat;
+  background-size: 100% auto;
+  overflow: hidden;
+}
+.market .text {
+  text-align: right;
+  margin-right: 200px;
+  margin-top: 180px;
+}
+.market h3 {
+  font-size: 42px;
+  color: #2a2a2a;
+  margin-bottom: 40px;
+}
+.market p {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+.plan {
+  padding: 50px;
+  background-color: #fff;
+}
+
+.plan h3 {
+  font-size: 42px;
+  font-weight: 700;
+  color: #2a2a2a;
+  text-align: center;
+}
+.plan ul {
+  padding: 0 100px;
+  margin-top: 50px;
+}
+
+.plan li {
+  width: 25%;
+  float: left;
+  height: 262px;
+  text-align: center;
+}
+
+.plan li h4 {
+  font-size: 24px;
+  color: #333;
+  margin: 14px auto;
+}
+
+.plan li p {
+  font-size: 14px;
+  color: #666;
+}
+
+.condition {
+  margin-top:200px ;
+  height: 800px;
+  width: 100%;
+  background: url(../images/bg3-3.png) no-repeat;
+  background-size: 100% auto;
+  position: relative;
+}
+.condition .text {
+  position: absolute;
+  top: -100px;
+  left: 180px;
+}
+.condition .text h3 {
+  font-size: 42px;
+  font-weight: 700;
+  color: #2a2a2a;
+  margin-bottom: 20px;
+}
+.condition .text p {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+.condition .text p strong {
+  margin-right: 10px;
+}
+.condition .pic {
+  width: 40%;
+  height: 560px;
+  position: absolute;
+  top: -200px;
+  right: 100px;
+  background: url(../images/bg3-6.png) no-repeat;
+  background-size: 100% auto;
+}
+
+.condition .joinUs {
+  position: absolute;
+  width: 100%;
+  bottom: 300px;
+  text-align: center;
+}
+.condition .joinUs h4 {
+  font-size: 42px;
+  font-weight: 700;
+  color: #2a2a2a;
+  margin-bottom: 20px;
+}
+.condition .joinUs .process {
+  width: 60%;
+  height: 50px;
+  margin: 0 auto; 
+  background: url(../images/fc.png) no-repeat;
+  background-size: 100% auto;
+  position: relative;
+}
+.condition .joinUs .process span {
+  font-size: 24px;
+  color: #333;
+}
+.condition .joinUs .process span.tip1 {
+  position: absolute;
+  top: 40px;
+  left: -25px;
+}
+.condition .joinUs .process span.tip2 {
+  position: absolute;
+  top: 40px;
+  left: 160px;
+}
+.condition .joinUs .process span.tip3 {
+  position: absolute;
+  top: 40px;
+  left: 360px;
+}
+.condition .joinUs .process span.tip4 {
+  position: absolute;
+  top: 40px;
+  left: 550px;
+}
+.condition .joinUs .process span.tip5 {
+  position: absolute;
+  top: 40px;
+  right: -25px;
+}
+
+.footer {
+  margin-top:-160px ;
+  padding: 160px 400px;
+  height: 1000px;
+  width: 100%;
+  background: url(../images/bg3-8.png) no-repeat;
+  background-size: 100% auto;
+  position: relative;
+}
+.footer h3 {
+  font-size: 42px; 
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+}
+.footer ul {
+  text-align: left;
+}
+.footer ul li .quest {
+  margin-top:26px ;
+  margin-bottom: 26px;
+  position: relative;
+}
+.footer ul li .quest img {
+  position: absolute;
+  top: 0;
+  left: -60px;
+}
+.footer ul li .quest span {
+  font-size: 24px;
+  font-weight: 500;
+  color: #fff;
+  line-height: 0.5;
+}
+
+.footer ul li .answer {
+  width: 100%;
+  border: 1px solid #fff;
+  position: relative;
+}
+.footer ul li .answer .left {
+  width: 46px;
+  height: 100%;
+  display:table-cell;
+ vertical-align: middle;
+  text-align: center;
+  background-color: #fff;
+  font-size: 24px;
+  color: #473db1;
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding: 10px;
+}
+.footer ul li .answer .left.first {
+  padding-top: 80px;
+}
+
+.footer ul li .answer .right {
+  width: 100%;
+  height: 100%;
+  padding: 22px 22px 22px 68px;
+  font-size: 16px;
+  color: #fff;
+}
